@@ -3,6 +3,7 @@ bbctopic/
 .DS_Store
 tests/.DS_Store
 .env
+notebooks/.ipynb_checkpoints
 
 
 # Byte-compiled / optimized / DLL files
