@@ -1,5 +1,7 @@
 data/
 bbctopic/
+.DS_Store
+tests/.DS_Store
 
 
 # Byte-compiled / optimized / DLL files
